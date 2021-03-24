@@ -2,8 +2,15 @@ Hola esto es un fichero, mola mucho ¿A que si?
 <<<<<<< Updated upstream
 ¿Me has escuchado?
 Si, te he escuchado
+<<<<<<< HEAD
 =======
 Pues si, la verdad es que si
 >>>>>>> Stashed changes
 
 Pues si, la verdad es que si (Ejercicio 2)
+=======
+
+¿Me has escuchado (Ejercicio 2)?
+>>>>>>> ace77dc183fc321b5856c9bd217316122bfbfafd
+
+Si, lo he escuchado (Ejercicio 2)
