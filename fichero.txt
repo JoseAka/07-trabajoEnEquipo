@@ -5,3 +5,5 @@ Si, te he escuchado
 =======
 Pues si, la verdad es que si
 >>>>>>> Stashed changes
+
+Pues si, la verdad es que si (Ejercicio 2)
